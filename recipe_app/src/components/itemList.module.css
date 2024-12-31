@@ -1,0 +1,5 @@
+.itemList {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 15px;
+}

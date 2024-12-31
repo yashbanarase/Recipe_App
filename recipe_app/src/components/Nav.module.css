@@ -1,0 +1,13 @@
+.nav {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #393e46;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+.navHead {
+  padding-top: 10px;
+  font-size: 50px;
+}
+.navSec {
+  padding-bottom: 15px;
+}
